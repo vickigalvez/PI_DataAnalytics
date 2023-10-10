@@ -7,8 +7,6 @@ Este proyecto tiene como objetivo principal analizar y comprender los datos rela
 
 En este contexto, este repositorio presenta un análisis detallado de los accidentes aéreos, junto con un completo panel de visualización de datos que complementa los análisis con gráficos y representaciones visuales. A través de este proyecto, se busca proporcionar una visión más clara y consistente de los factores que contribuyen a los accidentes aéreos y, en última instancia, contribuir a la mejora de la seguridad y la prevención de futuras tragedias en la industria de la aviación.
 
-Aquí encontrarás los recursos y resultados de este proyecto de análisis de accidentes aéreos, que tiene como objetivo brindar una comprensión más profunda de estos eventos críticos y sus implicaciones. ¡Bienvenido a esta investigación y análisis en pro de la seguridad de la aviación!
-
 # EDA: Analísis Exploratorio de los Datos
 
 En primer lugar se realizó la carga del dataset, se analizaron los datos y campos del mismo para una mejor comprensión y relación de los datos. 
